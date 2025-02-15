@@ -72,7 +72,7 @@ pip install -r requirements.txt
 - Good at finding non-stroke cases
 
 
-## Example::
+## Example 
 def predict_stroke_risk(patient_data):
 new_patient = {
     'age': 60,
